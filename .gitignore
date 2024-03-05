@@ -122,5 +122,3 @@ package-lock.json
 
 # Adding file upload folder, as not required on server
 **/upload
-
-**/*.js
